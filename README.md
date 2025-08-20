@@ -54,5 +54,5 @@ This analysis successfully distinguished between **normal** and **potentially ma
 
 
 
-Would you like me to also make this **GitHub-ready with badges** (e.g., Wireshark, Linux, Security tags) and maybe add a **"How to Reproduce" section** with commands so others can replicate your analysis?
+
 
