@@ -2,7 +2,7 @@
 
 # 🕵️‍♀️ Network Traffic Analysis
 
-*A project by Uneeq Interns*
+
 
 ## 📌 Project Overview
 
