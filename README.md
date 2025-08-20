@@ -1,6 +1,4 @@
-Got it 👍 I’ll create a professional `README.md` for your GitHub project based on the uploaded report. Here’s a good draft you can use:
 
----
 
 # 🕵️‍♀️ Network Traffic Analysis
 
